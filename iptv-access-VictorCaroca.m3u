@@ -1,0 +1,3 @@
+#EXTM3U url-tvg="http://redworld.pro:8880/xmltv.php?username=VictorCaroca&password=Victor2023" refresh="600"
+#EXTINF:-1 tvg-id="" tvg-name="IPTV Access" tvg-logo="" group-title="IPTV",IPTV Access — VictorCaroca
+http://redworld.pro:8880/get.php?username=VictorCaroca&password=Victor2023&type=m3u_plus&output=ts

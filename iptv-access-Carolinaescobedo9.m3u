@@ -1,0 +1,3 @@
+#EXTM3U url-tvg="http://vhdigital.cl:80/xmltv.php?username=Carolinaescobedo9&password=xpxzmhw8rM" refresh="600"
+#EXTINF:-1 tvg-id="" tvg-name="IPTV Access" tvg-logo="" group-title="IPTV",IPTV Access — Carolinaescobedo9
+http://vhdigital.cl:80/get.php?username=Carolinaescobedo9&password=xpxzmhw8rM&type=m3u_plus&output=ts
