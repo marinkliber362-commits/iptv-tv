@@ -1,0 +1,3 @@
+#EXTM3U url-tvg="http://avefenixtv.com:8080/xmltv.php?username=RICARDOTORREZ&password=5MZg5DjYd9" refresh="600"
+#EXTINF:-1 tvg-id="" tvg-name="IPTV Access" tvg-logo="" group-title="IPTV",IPTV Access — RICARDOTORREZ
+http://avefenixtv.com:8080/get.php?username=RICARDOTORREZ&password=5MZg5DjYd9&type=m3u_plus&output=ts
