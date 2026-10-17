@@ -1,0 +1,3 @@
+#EXTM3U url-tvg="http://ak-47scan.dyndns.tv:8080/xmltv.php?username=DeliaS&password=yYqHn9serEPR" refresh="600"
+#EXTINF:-1 tvg-id="" tvg-name="IPTV Access" tvg-logo="" group-title="IPTV",IPTV Access — DeliaS
+http://ak-47scan.dyndns.tv:8080/get.php?username=DeliaS&password=yYqHn9serEPR&type=m3u_plus&output=ts
